@@ -1,0 +1,18 @@
+.profile {
+    
+    width: 100%;
+    height: 100vh;
+    background: url('../images/GVSogwcfjpgs287_generated.jpg') center center;
+    background-size: cover;
+}
+.profile_overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(30, 29, 29, 0.5); 
+}
