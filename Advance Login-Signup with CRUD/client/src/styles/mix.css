@@ -1,0 +1,34 @@
+.main {
+    
+    width: 100%;
+    height: 100vh;
+    background: url('../images/nature-tranquil-beauty-reflected-calm-water-generative-ai.jpg') center center;
+    background-size: cover;
+}
+.overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(30, 29, 29, 0.5); 
+}
+
+/* .form-container {
+    position: relative;
+    z-index: 1;
+} */
+
+.success {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background: url('../images/pexels-catiamatos-1072179.jpg') center center;
+    background-size: cover;
+}
+
